@@ -1,0 +1,7 @@
+C:\Users\Jorge L\source\repos\objetos1\objetos1\bin\Debug\objetos1.exe.config
+C:\Users\Jorge L\source\repos\objetos1\objetos1\bin\Debug\objetos1.exe
+C:\Users\Jorge L\source\repos\objetos1\objetos1\bin\Debug\objetos1.pdb
+C:\Users\Jorge L\source\repos\objetos1\objetos1\obj\Debug\objetos1.csprojAssemblyReference.cache
+C:\Users\Jorge L\source\repos\objetos1\objetos1\obj\Debug\objetos1.csproj.CoreCompileInputs.cache
+C:\Users\Jorge L\source\repos\objetos1\objetos1\obj\Debug\objetos1.exe
+C:\Users\Jorge L\source\repos\objetos1\objetos1\obj\Debug\objetos1.pdb
